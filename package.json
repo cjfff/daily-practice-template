@@ -1,0 +1,19 @@
+{
+  "name": "daily-practice-template",
+  "version": "1.0.0",
+  "description": "打造团队的每日一练",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjfff/daily-practice-template.git"
+  },
+  "keywords": ["daily", "practice", "js"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjfff/daily-practice-template/issues"
+  },
+  "homepage": "https://github.com/cjfff/daily-practice-template#readme"
+}
